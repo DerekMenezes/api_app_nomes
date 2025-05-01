@@ -11,6 +11,7 @@ Este é um aplicativo web desenvolvido em Python com [Streamlit](https://streaml
 
 ## 🖼️ Demonstração
 
+![Demonstração do app](demo.gif)
 > Digite um nome e visualize sua popularidade ao longo do tempo no Brasil.
 
 
