@@ -9,9 +9,17 @@ Este é um aplicativo web desenvolvido em Python com [Streamlit](https://streaml
 - Interface simples, leve e responsiva
 - Conexão com a API oficial do IBGE
 
+## Acesse
+
+[App Nomes IBGE](https://apiappnomes-ibge.streamlit.app/)
+
 ## 🖼️ Demonstração
 
-![Demonstração do app](https://github.com/DerekMenezes/api_app_nomes/blob/main/demo.gif)
+<video width="600" controls>
+  <source src="demo.webm" type="video/webm">
+  Seu navegador não suporta a exibição de vídeo.
+</video>
+
 > Digite um nome e visualize sua popularidade ao longo do tempo no Brasil.
 
 
