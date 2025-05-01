@@ -11,7 +11,7 @@ Este é um aplicativo web desenvolvido em Python com [Streamlit](https://streaml
 
 ## 🖼️ Demonstração
 
-![Demonstração do app](demo.gif)
+![Demonstração do app]([https://github.com/seuusuario/seurepo/blob/main/demo.gif?raw=true](https://github.com/DerekMenezes/api_app_nomes/blob/main/demo.gif))
 > Digite um nome e visualize sua popularidade ao longo do tempo no Brasil.
 
 
